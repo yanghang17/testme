@@ -1,0 +1,19 @@
+header nav ul {
+	opacity: 0.7;
+}
+header nav li a:link,header nav a:visited {
+	color: #ffffff;
+}
+header nav li a {
+	color: #ffffff;
+}
+header nav li a:hover {
+	color: black;
+	background-color: #ffffff;
+}
+article {
+	font-family: SimHei;
+	font-size: 17px;
+	color: #223;
+	border-color: #667;
+}
