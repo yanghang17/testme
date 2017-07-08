@@ -1,2 +1,8 @@
 @import url(color.css);
 @import url(layout.css);
+
+/* 
+@import yrl 是在读取完文件后记载
+当使用JavaScript控制DOM去改变样式的时候，只能使用link标签，不能使用DOM控制@import
+link 是在加载页面前把CSS记载完毕
+*/
